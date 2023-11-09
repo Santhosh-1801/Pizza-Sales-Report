@@ -1,5 +1,9 @@
 ## Problem Statement 
 
+![pizzasreport](https://github.com/Santhosh-1801/Pizza-Sales-Report/assets/74703503/141e47b3-7b2e-43fe-9ba0-294fb1b45d8e)
+
+
+
 # KPI Requirement
 
 ### We need to analyze key indicators for our pizza sales to gain insights so that the performance is improved in the business. Calculate the following metrics:
