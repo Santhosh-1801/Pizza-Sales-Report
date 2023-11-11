@@ -16,3 +16,9 @@
 ### 3. Total Pizzas Sold: The sum of the quantities of all pizzas sold. 
 ### 4. Total Orders: The total number of orders placed. 
 ### 5. Average Pizzas Per Order: The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by total number of orders.
+
+
+# Screenshoots 
+
+
+![Pizza Sales Report_page-0001](https://github.com/Santhosh-1801/Pizza-Sales-Report/assets/74703503/4bdd0ee9-70f8-4cc0-b089-e6c023b2ca46)
